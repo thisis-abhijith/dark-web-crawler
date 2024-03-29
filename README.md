@@ -40,6 +40,8 @@
         </li>
         <li>Access the web interface by opening a web browser and navigating to <code>http://localhost:5511</code>.</li>
     </ol>
-
+    
+<h2>Contact</h2>
+    <p>For inquiries, you can reach me on <a href="https://www.linkedin.com/in/abhijith-soman-5b597225b//">LinkedIn</a>.</p>
 </body>
 </html>
